@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+.AppleDouble
+__MACOSX/
+._*
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# 暫存檔 Temp
+*.tmp
+*.log
