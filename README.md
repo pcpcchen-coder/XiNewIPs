@@ -167,16 +167,16 @@
 
 | 版本 | 長度 | 檔案 | 段落結構 | 建議用途 |
 |---|---|---|---|---|
-| **短版 Short** | 60 秒 | [`陳犀牛開場主題曲_犀牛角亮起來_1Min.m4a`](assets/陳犀牛開場主題曲_犀牛角亮起來_1Min.m4a) | Intro → Verse → Chorus → Outro | 影片片頭、社群短影音、Reels / Shorts、廣告墊底 |
-| **長版 Full** | 120 秒 | [`陳犀牛開場主題曲_犀牛角亮起來_2Min.mp4`](assets/陳犀牛開場主題曲_犀牛角亮起來_2Min.mp4) | Intro → Verse 1 → Chorus → Verse 2 → Chorus → Bridge → Chorus → Outro | 完整主題曲 MV、活動開場、頻道介紹片、演出播放 |
+| **短版 Short** | 60 秒 | [`theme-song-1min.m4a`](assets/07-theme-song/theme-song-1min.m4a) | Intro → Verse → Chorus → Outro | 影片片頭、社群短影音、Reels / Shorts、廣告墊底 |
+| **長版 Full** | 120 秒 | [`theme-song-2min.m4a`](assets/07-theme-song/theme-song-2min.m4a) | Intro → Verse 1 → Chorus → Verse 2 → Chorus → Bridge → Chorus → Outro | 完整主題曲 MV、活動開場、頻道介紹片、演出播放 |
 
-> **格式說明**：兩個檔案皆為 **AAC 音訊（ISO Media / M4A）**。長版雖以 `.mp4` 為副檔名，實際上**僅含音訊軌、不含影像**，播放器會以純音訊開啟。
+> **格式說明**：兩個檔案皆為 **AAC 音訊（ISO Media / M4A）**，僅含音訊軌、不含影像。長版原始檔名為 `..._2Min.mp4`，因實際內容為純音訊，已統一改為 `.m4a` 副檔名。
 >
 > **兩版關係**：短版並非長版的剪輯片段，而是獨立混音的精簡版；兩者共用同一段 Intro、Chorus 與 Outro，長版另外多出 Verse 2 與 Bridge。
 
 ### 歌詞 Lyrics
 
-歌詞原始檔（RTF）：[`1min歌詞.rtf`](assets/1min歌詞.rtf)　·　[`2min歌詞.rtf`](assets/2min歌詞.rtf)
+歌詞原始檔（RTF）：[`lyrics-1min.rtf`](assets/07-theme-song/lyrics-1min.rtf)　·　[`lyrics-2min.rtf`](assets/07-theme-song/lyrics-2min.rtf)
 
 <details>
 <summary><b>短版歌詞（60 秒）</b></summary>
@@ -288,7 +288,7 @@ Stay Curious, Keep Growing!
 
 ## 設計資產索引 Asset Index
 
-> 視覺素材皆為 PNG 格式，收錄於 `assets/` 下對應分類資料夾，點擊檔名即可預覽；主題曲音檔與歌詞則直接放在 `assets/` 根目錄（音檔請點擊後下載或於播放器開啟，GitHub 頁面無法直接試聽）。
+> 所有素材皆收錄於 `assets/` 下對應分類資料夾。視覺素材為 PNG 格式，點擊檔名即可預覽；主題曲音檔請點擊後下載或於播放器開啟（GitHub 頁面無法直接試聽）。
 
 ### 01 · 品牌識別 Brand Identity
 
@@ -335,10 +335,10 @@ Stay Curious, Keep Growing!
 
 | 類型 | 檔案 | 說明 |
 |---|---|---|
-| 🎵 音檔 | [`陳犀牛開場主題曲_犀牛角亮起來_1Min.m4a`](assets/陳犀牛開場主題曲_犀牛角亮起來_1Min.m4a) | 《犀牛角亮起來》**短版**，60 秒，AAC 音訊 |
-| 🎵 音檔 | [`陳犀牛開場主題曲_犀牛角亮起來_2Min.mp4`](assets/陳犀牛開場主題曲_犀牛角亮起來_2Min.mp4) | 《犀牛角亮起來》**長版**，120 秒，AAC 音訊（無影像軌） |
-| 📝 歌詞 | [`1min歌詞.rtf`](assets/1min歌詞.rtf) | 短版歌詞原始檔（RTF） |
-| 📝 歌詞 | [`2min歌詞.rtf`](assets/2min歌詞.rtf) | 長版歌詞原始檔（RTF） |
+| 🎵 音檔 | [`theme-song-1min.m4a`](assets/07-theme-song/theme-song-1min.m4a) | 《犀牛角亮起來》**短版**，60 秒，AAC 音訊 |
+| 🎵 音檔 | [`theme-song-2min.m4a`](assets/07-theme-song/theme-song-2min.m4a) | 《犀牛角亮起來》**長版**，120 秒，AAC 音訊 |
+| 📝 歌詞 | [`lyrics-1min.rtf`](assets/07-theme-song/lyrics-1min.rtf) | 短版歌詞原始檔（RTF） |
+| 📝 歌詞 | [`lyrics-2min.rtf`](assets/07-theme-song/lyrics-2min.rtf) | 長版歌詞原始檔（RTF） |
 
 > 歌詞全文請見 [主題曲 Theme Song](#主題曲-theme-song)。
 
@@ -367,11 +367,11 @@ XiNewIPs/
     │   └── channel-visual-templates.png     # 頻道視覺樣板
     ├── 06-merchandise/               # 周邊商品
     │   └── merchandise-design.png
-    │
-    ├── 陳犀牛開場主題曲_犀牛角亮起來_1Min.m4a   # 主題曲短版（60 秒）
-    ├── 陳犀牛開場主題曲_犀牛角亮起來_2Min.mp4   # 主題曲長版（120 秒，純音訊）
-    ├── 1min歌詞.rtf                              # 短版歌詞
-    └── 2min歌詞.rtf                              # 長版歌詞
+    └── 07-theme-song/                # 主題曲
+        ├── theme-song-1min.m4a              # 主題曲短版（60 秒）
+        ├── theme-song-2min.m4a              # 主題曲長版（120 秒）
+        ├── lyrics-1min.rtf                  # 短版歌詞
+        └── lyrics-2min.rtf                  # 長版歌詞
 ```
 
 ### 命名原則 Naming Convention
@@ -379,7 +379,7 @@ XiNewIPs/
 - 資料夾採 `序號-分類` 命名（如 `02-character-design`），確保排序穩定、分類清楚。
 - 檔名採**英文小寫 + 連字號（kebab-case）**，語意化描述內容，方便程式引用與跨平台相容。
 - 新增素材時，請放入對應分類資料夾，並在 [設計資產索引](#設計資產索引-asset-index) 補上一列。
-- **例外**：主題曲音檔與歌詞目前沿用中文原始檔名、並直接放在 `assets/` 根目錄。若日後要與上述規則對齊，建議移至 `assets/07-theme-song/` 並改名為 `theme-song-1min.m4a` / `theme-song-2min.m4a` / `lyrics-1min.rtf` / `lyrics-2min.rtf`（同時更新本文件連結）。
+- 音檔／歌詞等非圖像素材同樣適用上述規則：以 `序號-分類` 資料夾收納（如 `07-theme-song`），檔名採 kebab-case 並標註版本長度（`theme-song-1min` / `theme-song-2min`）。
 
 ---
 
