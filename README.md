@@ -174,6 +174,30 @@
 >
 > **兩版關係**：短版並非長版的剪輯片段，而是獨立混音的精簡版；兩者共用同一段 Intro、Chorus 與 Outro，長版另外多出 Verse 2 與 Bridge。
 
+### 製作資訊 Production
+
+| 項目 | 內容 |
+|---|---|
+| **製作平台 Platform** | [ACE Music](https://acemusic.ai)（`acemusic.ai`，AI 音樂生成） |
+| **曲風 Genre** | Upbeat Mandarin Pop（輕快華語流行） |
+| **定位 Positioning** | Kids Educational Show Theme Song（兒童教育節目主題曲） |
+| **速度 Tempo** | 120 BPM |
+| **調性 Key** | C Major（C 大調） |
+| **人聲 Vocal** | Bright Male Vocal（明亮男聲） |
+| **配器 Instrumentation** | 烏克麗麗 Ukulele · 鐵琴 Glockenspiel · 拍手聲 Hand Claps |
+| **情緒 Mood** | Cheerful and Playful（歡快、俏皮）／整體取向：**輕快活潑** |
+
+**生成提示詞 Prompt**（Style / Caption 英文標籤）：
+
+```text
+upbeat mandarin pop, kids educational show theme song, cheerful and playful,
+bright male vocal, ukulele, glockenspiel, hand claps, 120 bpm, C major
+```
+
+> 中文補充方向：**輕快活潑取向**。
+>
+> 若日後要製作衍生版本（如節慶版、純伴奏版、極短版），建議沿用上述提示詞為基底，僅調整需要變動的標籤（例如改 Tempo、抽掉人聲標籤改為 `instrumental`），以維持系列作品的聽覺一致性。
+
 ### 歌詞 Lyrics
 
 歌詞原始檔（RTF）：[`lyrics-1min.rtf`](assets/07-theme-song/lyrics-1min.rtf)　·　[`lyrics-2min.rtf`](assets/07-theme-song/lyrics-2min.rtf)
