@@ -19,6 +19,7 @@
 - [品牌識別 Brand Identity](#品牌識別-brand-identity)
 - [角色故事 Story & Worldbuilding](#角色故事-story--worldbuilding)
 - [內容策略 Content Strategy](#內容策略-content-strategy)
+- [主題曲 Theme Song](#主題曲-theme-song)
 - [設計資產索引 Asset Index](#設計資產索引-asset-index)
 - [檔案樹 File Tree](#檔案樹-file-tree)
 - [使用指引 Usage Guidelines](#使用指引-usage-guidelines)
@@ -31,7 +32,7 @@
 
 角色的核心理念是把艱深的知識變得有趣，讓學習成為一場冒險。無論是科學、科技、生活智慧、旅行冒險還是創意挑戰，陳犀牛都以熱情、幽默又可靠的方式帶領觀眾一起「發現問題、解決問題，然後讓世界更好」。
 
-> 本專案為陳犀牛 IP 的**視覺設計資產庫（Design Asset Library）**，統一收錄品牌識別、角色設定、內容策略與周邊設計等素材，方便後續在影片、社群、商品與合作提案中引用。
+> 本專案為陳犀牛 IP 的**設計資產庫（Design Asset Library）**，統一收錄品牌識別、角色設定、內容策略、周邊設計與**主題曲音檔／歌詞**等素材，方便後續在影片、社群、商品與合作提案中引用。
 
 ---
 
@@ -154,9 +155,140 @@
 
 ---
 
+## 主題曲 Theme Song
+
+### 《犀牛角亮起來》 — 陳犀牛開場主題曲
+
+角色專屬的開場主題曲，用於影片片頭、頻道包裝與活動登場。曲風明亮、節奏輕快，副歌以「陳犀牛 陳犀牛 動動腦 動動手」的呼喊式重複句設計，方便記憶與跟唱；結尾收在品牌標語 **知識・探索・改變** 與口頭禪 **「發現問題，解決問題，然後讓世界更好！」**，與 [品牌識別](#品牌識別-brand-identity) 一致。
+
+### 版本 Versions
+
+共提供 **一長一短兩個版本**，依使用場景選用：
+
+| 版本 | 長度 | 檔案 | 段落結構 | 建議用途 |
+|---|---|---|---|---|
+| **短版 Short** | 60 秒 | [`theme-song-1min.m4a`](assets/07-theme-song/theme-song-1min.m4a) | Intro → Verse → Chorus → Outro | 影片片頭、社群短影音、Reels / Shorts、廣告墊底 |
+| **長版 Full** | 120 秒 | [`theme-song-2min.m4a`](assets/07-theme-song/theme-song-2min.m4a) | Intro → Verse 1 → Chorus → Verse 2 → Chorus → Bridge → Chorus → Outro | 完整主題曲 MV、活動開場、頻道介紹片、演出播放 |
+
+> **格式說明**：兩個檔案皆為 **AAC 音訊（ISO Media / M4A）**，僅含音訊軌、不含影像。長版原始檔名為 `..._2Min.mp4`，因實際內容為純音訊，已統一改為 `.m4a` 副檔名。
+>
+> **兩版關係**：短版並非長版的剪輯片段，而是獨立混音的精簡版；兩者共用同一段 Intro、Chorus 與 Outro，長版另外多出 Verse 2 與 Bridge。
+
+### 歌詞 Lyrics
+
+歌詞原始檔（RTF）：[`lyrics-1min.rtf`](assets/07-theme-song/lyrics-1min.rtf)　·　[`lyrics-2min.rtf`](assets/07-theme-song/lyrics-2min.rtf)
+
+<details>
+<summary><b>短版歌詞（60 秒）</b></summary>
+
+```text
+[Intro]
+(嘿！嘿！)
+犀牛角亮起來囉～
+
+[Verse]
+揹起工具包 平板手上拿
+工裝背心穿好啦 出發去探險
+打開課本之前 先問一個為什麼
+好奇心是燃料 帶我往前跑
+
+[Chorus]
+陳犀牛 陳犀牛 動動腦 動動手
+發現問題 解決問題 世界變更好
+陳犀牛 陳犀牛 一起學 一起笑
+用好奇心探索世界 用知識改變未來！
+Stay Curious, Keep Growing!
+
+[Outro]
+發現問題 解決問題 然後讓世界更好！
+知識・探索・改變
+(陳犀牛！)
+上課囉！
+```
+
+</details>
+
+<details>
+<summary><b>長版歌詞（120 秒）</b></summary>
+
+```text
+[Intro]
+(嘿！嘿！)
+犀牛角亮起來囉～
+
+[Verse 1]
+揹起工具包 平板手上拿
+工裝背心穿好啦 出發去探險
+打開課本之前 先問一個為什麼
+好奇心是燃料 帶我往前跑
+
+[Chorus]
+陳犀牛 陳犀牛 動動腦 動動手
+發現問題 解決問題 世界變更好
+陳犀牛 陳犀牛 一起學 一起笑
+用好奇心探索世界 用知識改變未來！
+Stay Curious, Keep Growing!
+
+[Verse 2]
+科學科技 生活智慧 旅行創意全包
+新知城的朋友們 集合時間到
+不怕錯 勇敢試 答案就在路上找
+小小發明家 是我們的代號
+
+[Chorus]
+陳犀牛 陳犀牛 動動腦 動動手
+發現問題 解決問題 世界變更好
+陳犀牛 陳犀牛 一起學 一起笑
+用好奇心探索世界 用知識改變未來！
+Stay Curious, Keep Growing!
+
+[Bridge]
+(一、二、三、四！)
+發光的角 照亮每一個問號
+把複雜變簡單 讓學習變冒險
+你就是下一個探索家 準備好！
+
+[Chorus]
+陳犀牛 陳犀牛 動動腦 動動手
+發現問題 解決問題 世界變更好
+陳犀牛 陳犀牛 一起學 一起笑
+用好奇心探索世界 用知識改變未來！
+
+[Outro]
+發現問題 解決問題 然後讓世界更好！
+知識・探索・改變
+(陳犀牛！)
+上課囉！
+```
+
+</details>
+
+### 歌詞與品牌設定的對應 Lyric ↔ Brand Mapping
+
+| 歌詞片段 | 對應設定 |
+|---|---|
+| 「犀牛角亮起來囉～」 | 造型特徵：**發光犀牛角**（靈感與探索之光） |
+| 「揹起工具包 平板手上拿 / 工裝背心穿好啦」 | 造型特徵：**工裝背心 + 側背工具包 + 手持平板** |
+| 「科學科技 生活智慧 旅行創意全包」 | [內容五大主題](#內容策略-content-strategy)：科學 / 科技 / 生活 / 旅行 / 創意 |
+| 「新知城的朋友們」 | 世界觀起源地：**新知城** |
+| 「小小發明家 是我們的代號」 | 成長里程碑 02：**小小發明家（2018）** |
+| 「用好奇心探索世界 用知識改變未來！」 | 品牌主標語 Headline |
+| 「知識・探索・改變」 | 品牌標語 Tagline（EXPLORE · LEARN · IMPACT） |
+| 「Stay Curious, Keep Growing!」 | 頻道口號 Channel Slogan |
+| 「發現問題 解決問題 然後讓世界更好！」 | 角色口頭禪 Catchphrase |
+
+### 使用建議 Usage Notes
+
+- **片頭搭配**：短版對應動畫模板的 5 步驟片頭分鏡（`① LOGO → ② 角色登場 → ③ 理念 → ④ 專業 → ⑤ 定格`），Intro 的「犀牛角亮起來囉～」建議對齊犀牛角發光的動畫時間點。
+- **副歌節錄**：需要 10–15 秒的極短版（如 Shorts 片頭、開場動態貼圖）時，建議直接節錄 Chorus 前兩句。
+- **字幕與跟唱**：卡拉 OK 式字幕請以上方段落標記（Intro / Verse / Chorus / Bridge / Outro）切分，維持與歌詞原始檔一致。
+- **音量與混音**：作為配樂墊底時建議降至 -18 dB 上下，避免蓋過旁白；片頭獨奏段落可回到 -6 dB。
+
+---
+
 ## 設計資產索引 Asset Index
 
-> 所有素材皆為 PNG 格式，收錄於 `assets/` 下對應分類資料夾。點擊檔名即可預覽。
+> 所有素材皆收錄於 `assets/` 下對應分類資料夾。視覺素材為 PNG 格式，點擊檔名即可預覽；主題曲音檔請點擊後下載或於播放器開啟（GitHub 頁面無法直接試聽）。
 
 ### 01 · 品牌識別 Brand Identity
 
@@ -199,6 +331,17 @@
 |---|---|---|
 | <img src="assets/06-merchandise/merchandise-design.png" width="120"> | [`merchandise-design.png`](assets/06-merchandise/merchandise-design.png) | 周邊設計（連帽外套 / 馬克杯 / 壓克力立牌 / 後背包） |
 
+### 07 · 主題曲 Theme Song
+
+| 類型 | 檔案 | 說明 |
+|---|---|---|
+| 🎵 音檔 | [`theme-song-1min.m4a`](assets/07-theme-song/theme-song-1min.m4a) | 《犀牛角亮起來》**短版**，60 秒，AAC 音訊 |
+| 🎵 音檔 | [`theme-song-2min.m4a`](assets/07-theme-song/theme-song-2min.m4a) | 《犀牛角亮起來》**長版**，120 秒，AAC 音訊 |
+| 📝 歌詞 | [`lyrics-1min.rtf`](assets/07-theme-song/lyrics-1min.rtf) | 短版歌詞原始檔（RTF） |
+| 📝 歌詞 | [`lyrics-2min.rtf`](assets/07-theme-song/lyrics-2min.rtf) | 長版歌詞原始檔（RTF） |
+
+> 歌詞全文請見 [主題曲 Theme Song](#主題曲-theme-song)。
+
 ---
 
 ## 檔案樹 File Tree
@@ -222,8 +365,13 @@ XiNewIPs/
     │   ├── content-pillars.png              # 內容五大主題
     │   ├── animation-video-templates.png    # 動畫 / 影音模板
     │   └── channel-visual-templates.png     # 頻道視覺樣板
-    └── 06-merchandise/               # 周邊商品
-        └── merchandise-design.png
+    ├── 06-merchandise/               # 周邊商品
+    │   └── merchandise-design.png
+    └── 07-theme-song/                # 主題曲
+        ├── theme-song-1min.m4a              # 主題曲短版（60 秒）
+        ├── theme-song-2min.m4a              # 主題曲長版（120 秒）
+        ├── lyrics-1min.rtf                  # 短版歌詞
+        └── lyrics-2min.rtf                  # 長版歌詞
 ```
 
 ### 命名原則 Naming Convention
@@ -231,6 +379,7 @@ XiNewIPs/
 - 資料夾採 `序號-分類` 命名（如 `02-character-design`），確保排序穩定、分類清楚。
 - 檔名採**英文小寫 + 連字號（kebab-case）**，語意化描述內容，方便程式引用與跨平台相容。
 - 新增素材時，請放入對應分類資料夾，並在 [設計資產索引](#設計資產索引-asset-index) 補上一列。
+- 音檔／歌詞等非圖像素材同樣適用上述規則：以 `序號-分類` 資料夾收納（如 `07-theme-song`），檔名採 kebab-case 並標註版本長度（`theme-song-1min` / `theme-song-2min`）。
 
 ---
 
@@ -241,6 +390,7 @@ XiNewIPs/
 - 維持品牌主色 **探索橙 `#F5A623`** 作為強調色，深藍系作為主背景。
 - 使用時保留角色的核心識別特徵：**發光犀牛角、工裝背心、名牌、犀牛臂章**。
 - 標語搭配優先使用「知識 · 探索 · 改變 / EXPLORE · LEARN · IMPACT」。
+- 系列影片片頭固定使用主題曲《犀牛角亮起來》，短影音用短版、完整節目用長版，建立聽覺記憶點。
 - 引用素材時使用本庫的檔案路徑，避免各處各自存放造成版本混亂。
 
 ### ⛔ 避免 Don't
