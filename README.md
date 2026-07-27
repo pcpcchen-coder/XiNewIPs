@@ -8,7 +8,7 @@
 
 <img src="assets/02-character-design/key-visual-hero.png" alt="陳犀牛 Chen XiNew 主視覺" width="420">
 
-▶️ **[觀看開場影片 Watch the Opening Video](https://drive.google.com/file/d/1hMXqRqJIhmSA3wlcsozcSG7FKK9z0cER/view?usp=sharing)**
+▶️ **[觀看開場影片 Watch the Opening Video](https://www.youtube.com/watch?v=mw7FB3jTwJU)**
 
 </div>
 
@@ -162,11 +162,15 @@
 
 陳犀牛的官方**開場影片（Opening Video）**，是角色首度動態亮相的頻道片頭版本，串接 [動畫模板](#內容策略-content-strategy) 的 5 步驟片頭分鏡（`① LOGO → ② 角色登場 → ③ 理念 → ④ 專業 → ⑤ 定格`）與 [主題曲](#主題曲-theme-song)《犀牛角亮起來》，呈現完整的品牌登場視覺。
 
-| 項目 | 連結 |
-|---|---|
-| 🎬 **開場影片 Opening Video** | [▶️ Google Drive 觀看連結](https://drive.google.com/file/d/1hMXqRqJIhmSA3wlcsozcSG7FKK9z0cER/view?usp=sharing) |
+<div align="center">
 
-> **存放位置**：影片檔案較大，託管於 **Google Drive**（未收錄於本 repo）。點擊上方連結即可於瀏覽器開啟觀看；若需下載、嵌入或對外分享，請先確認該 Drive 檔案的共用權限設定。
+[![陳犀牛 Chen XiNew 開場影片](https://img.youtube.com/vi/mw7FB3jTwJU/hqdefault.jpg)](https://www.youtube.com/watch?v=mw7FB3jTwJU)
+
+▶️ **[在 YouTube 觀看開場影片 Watch on YouTube](https://www.youtube.com/watch?v=mw7FB3jTwJU)**
+
+</div>
+
+> **發佈平台**：開場影片發佈於 **YouTube**（未收錄於本 repo）。點擊上方縮圖或連結即可於瀏覽器開啟觀看。
 
 ---
 
