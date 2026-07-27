@@ -8,6 +8,8 @@
 
 <img src="assets/02-character-design/key-visual-hero.png" alt="陳犀牛 Chen XiNew 主視覺" width="420">
 
+▶️ **[觀看開場影片 Watch the Opening Video](https://drive.google.com/file/d/1hMXqRqJIhmSA3wlcsozcSG7FKK9z0cER/view?usp=sharing)**
+
 </div>
 
 ---
@@ -19,6 +21,7 @@
 - [品牌識別 Brand Identity](#品牌識別-brand-identity)
 - [角色故事 Story & Worldbuilding](#角色故事-story--worldbuilding)
 - [內容策略 Content Strategy](#內容策略-content-strategy)
+- [開場影片 Opening Video](#開場影片-opening-video)
 - [主題曲 Theme Song](#主題曲-theme-song)
 - [設計資產索引 Asset Index](#設計資產索引-asset-index)
 - [檔案樹 File Tree](#檔案樹-file-tree)
@@ -32,7 +35,7 @@
 
 角色的核心理念是把艱深的知識變得有趣，讓學習成為一場冒險。無論是科學、科技、生活智慧、旅行冒險還是創意挑戰，陳犀牛都以熱情、幽默又可靠的方式帶領觀眾一起「發現問題、解決問題，然後讓世界更好」。
 
-> 本專案為陳犀牛 IP 的**設計資產庫（Design Asset Library）**，統一收錄品牌識別、角色設定、內容策略、周邊設計與**主題曲音檔／歌詞**等素材，方便後續在影片、社群、商品與合作提案中引用。
+> 本專案為陳犀牛 IP 的**設計資產庫（Design Asset Library）**，統一收錄品牌識別、角色設定、內容策略、周邊設計與**主題曲音檔／歌詞**等素材（另以外部連結提供**開場影片**），方便後續在影片、社群、商品與合作提案中引用。
 
 ---
 
@@ -152,6 +155,18 @@
 - **社群 Social**：YouTube `xinew-says`　·　Instagram `@chen.rhino`　·　Facebook `陳犀牛 Chen XiNew`
 
 > 詳見 [`channel-visual-templates.png`](assets/05-content-strategy/channel-visual-templates.png)。
+
+---
+
+## 開場影片 Opening Video
+
+陳犀牛的官方**開場影片（Opening Video）**，是角色首度動態亮相的頻道片頭版本，串接 [動畫模板](#內容策略-content-strategy) 的 5 步驟片頭分鏡（`① LOGO → ② 角色登場 → ③ 理念 → ④ 專業 → ⑤ 定格`）與 [主題曲](#主題曲-theme-song)《犀牛角亮起來》，呈現完整的品牌登場視覺。
+
+| 項目 | 連結 |
+|---|---|
+| 🎬 **開場影片 Opening Video** | [▶️ Google Drive 觀看連結](https://drive.google.com/file/d/1hMXqRqJIhmSA3wlcsozcSG7FKK9z0cER/view?usp=sharing) |
+
+> **存放位置**：影片檔案較大，託管於 **Google Drive**（未收錄於本 repo）。點擊上方連結即可於瀏覽器開啟觀看；若需下載、嵌入或對外分享，請先確認該 Drive 檔案的共用權限設定。
 
 ---
 
@@ -415,6 +430,7 @@ XiNewIPs/
 - 使用時保留角色的核心識別特徵：**發光犀牛角、工裝背心、名牌、犀牛臂章**。
 - 標語搭配優先使用「知識 · 探索 · 改變 / EXPLORE · LEARN · IMPACT」。
 - 系列影片片頭固定使用主題曲《犀牛角亮起來》，短影音用短版、完整節目用長版，建立聽覺記憶點。
+- 頻道／節目正式片頭可直接套用官方**開場影片**（見 [開場影片](#開場影片-opening-video)），與主題曲搭配建立一致的品牌登場印象。
 - 引用素材時使用本庫的檔案路徑，避免各處各自存放造成版本混亂。
 
 ### ⛔ 避免 Don't
